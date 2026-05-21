@@ -190,8 +190,8 @@ This project successfully transformed raw supermarket business data into meaning
 
 ## 👨‍💻 Jahangeer Hassan
 
-* LinkedIn: [www.linkedin.com/in/jahangeer-hassan-data-analyst](http://www.linkedin.com/in/jahangeer-hassan-data-analyst)
-* GitHub: [https://github.com/](https://github.com/)
+* LinkedIn: [https://www.linkedin.com/in/jahangeer-hassan-data-analysts/]
+* GitHub: [https://github.com/]
 
 ---
 
